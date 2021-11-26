@@ -1,0 +1,2 @@
+# EjemploResticcion
+Restriccion
